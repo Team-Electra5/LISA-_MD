@@ -1,6 +1,6 @@
 FROM node:lts-buster
  
-RUN apt-get update && \
+RUN apt-get update && \https://github.com/Team-Electra5/UFA-LUCKY-SER/root/whatsAsenaDupLicated
   apt-get install -y \
   ffmpeg \
   imagemagick \
