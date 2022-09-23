@@ -1,9 +1,9 @@
 {
-  "name": "Toxic-Alexa_V3",
+  "name": "UFA-LUCKY-SER",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/TURBOHYPER/Toxic-Alexa_V3",
+  "repository": "https://github.com/TURBOHYPER/ Team-Electra5",
   "logo": "https://telegra.ph/file/f2bd807ba0793444fbe09.jpg",
-  "keywords": ["nodejs", "toxic-alexa_v3", "whatsapp bot", "whatsapp automation", "multi device"],
+  "keywords": ["nodejs", "UFA-LUCKY-SER", "whatsapp bot", "whatsapp automation", "multi device"],
   "stack": "container",
   "addons": [{
   "plan": "heroku-postgresql"
@@ -25,12 +25,12 @@
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it)",
 			"required": true,
-			"value": "TurboMods"
+			"value": "Lisamods"
 		},
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "916380260672"
+			"value": "918136880986"
 		},
 		"AUTO_TYPING": {
 			"description": "Type true or false",
@@ -65,12 +65,12 @@
 		"BOT_NAME": {
 			"description": "Enter Your Bot Name",
 			"required": true,
-			"value": "Toxic-Alexa_V3"
+			"value": "Lisamol"
 		},
 		"PACKNAME": {
 			"description": "Enter Your Name For Sticker Package Name",
 			"required": true,
-			"value": "Turbo Mods"
+			"value": "Lisa Mods"
 		},
 		"THEME_EMOJI": {
 			"description": "Enter A Emoji For Menu And Other Theme",
@@ -85,7 +85,7 @@
 		"OWNER_TAG": {
 			"description": "Enter Your Number For Owner Tag",
 			"required": true,
-			"value": "916380260672"
+			"value": "918136880986"
 		},
 		"DOCUMENT1": {
 			"description": "If You Dont known What Is This Then Don't Change This",
