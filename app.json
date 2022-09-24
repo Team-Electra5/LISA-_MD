@@ -20,7 +20,7 @@
       "ALIVE_MESSAGE": {
 			"description": "Add a message here which you want to see when typing .alive",
 			"required": true,
-			"value": "Hey Guys Toxic Alexa V3 Is Still Alive"
+			"value": "Hey Guys Toxic Lisa mol Is Still Alive"
 		},
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it)",
@@ -75,12 +75,12 @@
 		"THEME_EMOJI": {
 			"description": "Enter A Emoji For Menu And Other Theme",
 			"required": true,
-			"value": "✨"
+			"value": "🍒"
 		},
 		"REACT_EMOJI": {
 			"description": "Enter A Emoji For Menu React",
 			"required": true,
-			"value": "🇮🇳"
+			"value":"🤍"
 		},
 		"OWNER_TAG": {
 			"description": "Enter Your Number For Owner Tag",
