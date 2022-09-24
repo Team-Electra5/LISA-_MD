@@ -48,7 +48,7 @@ Project created by <a href="https://github.com/Team-Electra5">Turbo</a> to make 
 
   ### Simple Method
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TURBOHYPER/Toxic-Alexa_V3?output%20only=1&lite=1#index.js)
+[![Run on https://replit.com/@TURBOHYPER/Toxic-AlexaV3?output%20only=1&lite=1#index.js)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Team-Electra5/LISA-_MD) 
 <br>
