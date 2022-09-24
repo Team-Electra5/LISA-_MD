@@ -1,6 +1,6 @@
 {
- "name": "Toxic-Alexa_V3",
- "description": "Multi Device Whatsapp Bot By Turbo",
+ "name": "LISA-_MD",
+ "description": "Multi Device Whatsapp Bot By ufaluckyboy",
  "version": "3.0.0",
  "main": "index.js",
  "type": "commonjs",
@@ -10,7 +10,7 @@
  "keywords": [
   "termux",
   "whatsapp",
-  "Toxic-Alexa_V3",
+  "LISA-_MD",
   "wabase-md",
   "base",
   "baileys-md",
@@ -18,7 +18,7 @@
   "bot-md",
   "multi-device"
  ],
- "author": "TURBOHYPER ",
+ "author": "Team-Electra5 ",
  "license": "MIT",
  "dependencies": {
   "@adiwajshing/baileys": "^4.0.1",
@@ -87,10 +87,10 @@
  },
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/TURBOHYPER/Toxic-Alexa_V3.git"
+  "url": "git+https://github.com/Team-Electra5/LISA-_MD.git"
  },
  "bugs": {
-  "url": "https://github.com/TURBOHYPER/Toxic-Alexa_V3/issues"
+  "url": "https://github.com/Team-Electra5/LISA-_MD/issues"
  },
- "homepage": "https://github.com/TURBOHYPER/Toxic-Alexa_V3#readme"
+ "homepage": "https://github.com/Team-Electra5/LISA-_MD#readme"
 }
