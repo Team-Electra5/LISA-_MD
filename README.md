@@ -40,7 +40,7 @@ Project created by <a href="https://github.com/Team-Electra5">Turbo</a> to make 
 </p>
 
 <p align="center">
-<a ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TURBOHYPER/ToxicLISA-_MD&title=Toxic-LISA-_MD%20Views)
+<a ![Profile Views](https://i.imgur.com/SuT4kYF.jpeg?url=https://github.com//ToxicLISA-_MD&title=Toxic-LISA-_MD%20Views)
 </p>
 
 ## Setup
