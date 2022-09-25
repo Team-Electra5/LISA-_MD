@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F753EE&lines=Welcome+To+lisamd-UFA-LUCKY-SER;This+Bot+Made+By+luckyser)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F753EE&lines=Welcome+To+lisamdLUCKY-SER;This+Bot+Made+By+luckyser)](https://git.io/typing-svg)
 <div align="center">
         <img src="https://i.imgur.com/alHOZAV.jpeg" alt="GIF" width="250" height="250"/>
 </p>
