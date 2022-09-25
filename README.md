@@ -140,7 +140,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![lisa-md](https://github.comhttps://i.imgur.com/PnnIpnm.png?size=100)](https://github.com/Team-Electra5)
+  [![lisa-md](https://i.imgur.com/SuT4kYF.jpeg?size=100)](https://github.com/Team-Electra5)
     
 [lisa-md](https://github.com/Team-Electra5)
   </div>
