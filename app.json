@@ -3,7 +3,7 @@
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/TURBOHYPER/ Team-Electra5",
   "logo": "https://i.imgur.com/alHOZAV.jpeg",
-  "keywords": ["nodejs", "UFA-LUCKY-SER", "whatsapp bot", "whatsapp automation", "multi device"],
+  "keywords": ["nodejs", "LUCKY-SER", "whatsapp bot", "whatsapp automation", "multi device"],
   "stack": "container",
   "addons": [{
   "plan": "heroku-postgresql"
@@ -20,7 +20,7 @@
       "ALIVE_MESSAGE": {
 			"description": "Add a message here which you want to see when typing .alive",
 			"required": true,
-			"value": "Hey Guys Toxic Lisa mol Is Still Alive"
+			"value": "Hey Guys  Lisa mol Is Still Alive"
 		},
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it)",
