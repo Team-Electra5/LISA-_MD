@@ -121,7 +121,7 @@ Click WA logo to Join public bot Group👇
 
 ### youtube👇
 
-[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://youtu.be/fHFBLrGrVXo)
+[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://youtu.be/fH)
 
 
 ### contact on instagram👇
