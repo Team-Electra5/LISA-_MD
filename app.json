@@ -1,7 +1,7 @@
 {
-  "name": "UFA-LUCKY-SER",
+  "name": "CRIZZ",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/TURBOHYPER/ Team-Electra5",
+  "repository": "https://github.com/CRIZXBOT/ Team-Electra5",
   "logo": "https://i.imgur.com/alHOZAV.jpeg",
   "keywords": ["nodejs", "LUCKY-SER", "whatsapp bot", "whatsapp automation", "multi device"],
   "stack": "container",
@@ -20,17 +20,17 @@
       "ALIVE_MESSAGE": {
 			"description": "Add a message here which you want to see when typing .alive",
 			"required": true,
-			"value": "Hey Guys  Lisa mol Is Still Alive"
+			"value": "Hey Guys Crizz is still alive"
 		},
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it)",
 			"required": true,
-			"value": "Lisamods"
+			"value": "CRIZZ"
 		},
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "918136880986"
+			"value": "918137863525"
 		},
 		"AUTO_TYPING": {
 			"description": "Type true or false",
@@ -65,12 +65,12 @@
 		"BOT_NAME": {
 			"description": "Enter Your Bot Name",
 			"required": true,
-			"value": "Lisamol"
+			"value": "CRIZZ"
 		},
 		"PACKNAME": {
 			"description": "Enter Your Name For Sticker Package Name",
 			"required": true,
-			"value": "Lisa Mods"
+			"value": "CRIZZ"
 		},
 		"THEME_EMOJI": {
 			"description": "Enter A Emoji For Menu And Other Theme",
@@ -85,7 +85,7 @@
 		"OWNER_TAG": {
 			"description": "Enter Your Number For Owner Tag",
 			"required": true,
-			"value": "918136880986"
+			"value": "918137863525"
 		},
 		"DOCUMENT1": {
 			"description": "If You Dont known What Is This Then Don't Change This",
