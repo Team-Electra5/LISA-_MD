@@ -40,7 +40,7 @@ Project created by <a href="https://github.com/Team-Electra5">Turbo</a> to make 
 </p>
 
 <p align="center">
-<a ![Profile Views](https://i.imgur.com/SuT4kYF.jpeg?url=https://github.com//ToxicLISA-_MD&title=Toxic-LISA-_MD%20Views)
+<a ![Profile Views](https://i.imgur.com/SuT4kYF.jpeg?url=https://github.com/_MD&title=Toxic-LISA-_MD%20Views)
 </p>
 
 ## Setup
@@ -50,7 +50,7 @@ Project created by <a href="https://github.com/Team-Electra5">Turbo</a> to make 
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TURBOHYPER/Toxic-AlexaV3?output%20only=1&lite=1#index.js)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Toxic-Alexa_V3/LISA-_MD) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ToTeam-Electra5/LISA-_MD) 
 <br>
         
 1. Click [SCAN](https://replit.com/@TURBOHYPER//Toxic-AlexaV3?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
